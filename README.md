@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Vivek 👋
+
+I’m a data analytics enthusiast who enjoys working with data to find
+patterns and build clear, meaningful insights.
+
+### 🛠 Tools
+Python · MySQL · Power BI · Excel · Tableau
+
+### 📂 Work
+Hands-on experience with multiple analytics projects involving
+data cleaning, analysis, and visualization.
+
+📫 Connect with me on LinkedIn
+
 
 <!--
 **vivek-prasaad/vivek-prasaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
