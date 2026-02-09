@@ -1,4 +1,4 @@
-## Hi, I'm Vivek 👋
+## Hi, I'm Vivek prasad 👋
 
 I’m a data analytics enthusiast who enjoys working with data to find
 patterns and build clear, meaningful insights.
